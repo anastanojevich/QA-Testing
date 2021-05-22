@@ -2,7 +2,7 @@ package oop_1705_UserZoomCall;
 
 public class ZoomCall {
 
-//	Kreirati klasu ZoomCall koja ima:
+//	Kreirati klasu ZoomCall koja ima: ...
 //		link za poziv
 //		password
 //		korisnika koji je host
